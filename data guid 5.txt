@@ -19,32 +19,32 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-2397925-1",
-"yandex_inter":"R-M-2397925-3",
-"yandex_native":"R-M-2397925-2",
-"yandex_reward":"R-M-2397925-4",
+"yandex_banner":"R-M-DEMO-320x100",
+"yandex_inter":"R-M-DEMO-interstitial",
+"yandex_native":"R-M-DEMO-native-i",
+"yandex_reward":"demo-rewarded-yandex",
 
 
 
-"start_vpn":"no",
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
+"start_vpn":"yes",
+"banner_network_choice":"admob", 
+"interstisial_network_choice":"admob", 
+"reward_network_choice":"admob",
+"native_network_choice":"admob"
   
   
 
 },
  
  "my_data":[
-  {"title":"how to use this app 1","desc":"Language is an integral part of human civilization, and the alphabet serves as the foundation of written communication. The evolution of alphabets has a rich history, filled with mythologies and legends surrounding their origins.","photo":"https://iili.io/HUnADbf.png"},
-  {"title":"tips mod 2","desc":" Among these, the story of Garry, a mythical figure associated with the creation of the alphabet, stands out. This essay delves into the captivating lore of the alphabet and explores the legend of Garry, shedding light on its significance and impact on human culture.","photo":"https://iili.io/HUnAZRs.jpg"},
-  {"title":"advice pack 3","desc":" Among these, the story of Garry, a mythical figure associated with the creation of the alphabet, stands out. This essay delves into the captivating lore of the alphabet and explores the legend of Garry, shedding light on its significance and impact on human culture.","photo":"https://iili.io/HUnAtOG.jpg"},
-  {"title":"helper mod 4","desc":"These systems were primarily pictographic or logographic, with each symbol representing a word or idea. Over time, the need for a more efficient and flexible writing system led to the development of alphabets.","photo":"https://iili.io/HUnAQJn.jpg"},
-  {"title":"advance pack 5","desc":"According to an ancient legend, Garry was a wise sage who lived in a distant land. He possessed profound knowledge and sought to create a system of writing that would revolutionize communication.","photo":"https://iili.io/HUnApWl.jpg"},
-  {"title":"how to use this app 6","desc":"In one version, Garry was visited by a divine entity who bestowed upon him the wisdom of the universe. Inspired by this encounter,","photo":"https://iili.io/HUnAys2.jpg"},
-  {"title":"tips mod 7","desc":"Garry set out on a quest to devise a method of writing that would capture the essence of language. After years of contemplation and experimentation, Garry combined symbols, sounds, and meanings to create the first alphabet.","photo":"https://iili.io/HUnRHfS.jpg"},
-  {"title":"advice pack 8","desc":"Another version suggests that Garry was a scribe who grew weary of the complexity and limitations of existing writing systems.","photo":"https://iili.io/HUnAmx4.jpg"}
+  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
    ]
  
 }
